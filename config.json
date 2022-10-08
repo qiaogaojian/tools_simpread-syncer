@@ -1,7 +1,7 @@
 {
   "port": 7026,
-  "syncPath": "../Chrome/simpread-syncer",
-  "outputPath": "D:/Gitee/obsidian/stash",
+  "syncPath": "D:/Git/Tools/tools_simpread-syncer",
+  "outputPath": "D:/Git/Note/note_obsidian/stash",
   "smtpHost": "",
   "smtpPort": 465,
   "smtpUsername": "",
