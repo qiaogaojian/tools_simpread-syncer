@@ -1,0 +1,12 @@
+{
+  "port": 7026,
+  "syncPath": "../Chrome/simpread-syncer",
+  "outputPath": "D:/Gitee/obsidian/stash",
+  "smtpHost": "",
+  "smtpPort": 465,
+  "smtpUsername": "",
+  "smtpPassword": "",
+  "mailTitle": "[简悦] - {{title}}",
+  "receiverMail": "",
+  "kindleMail": ""
+}
