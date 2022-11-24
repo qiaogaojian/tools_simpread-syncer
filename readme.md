@@ -42,3 +42,15 @@ config.json 默认配置如下：
 `syncPath` 必须填写，否则无法自动同步。
 
 `outputPath` 如果不填写，默认为 `syncPath` 下的 output 文件夹。
+
+## 自动启动
+
+#### Windows
+
+Windows 上可以计划任务，可参考[此文章](https://docs.syncthing.net/users/autostart.html#windows)。
+
+推荐使用[git_syncer](https://github.com/qiaogaojian/tools_git-syncer)
+
+#### [](https://github.com/j1g5awi/simpread-sync#docker)Docker
+
+参见[使用 Docker 部署简悦同步助手 · 命令行](https://github.com/Kenshin/simpread/discussions/4312)
